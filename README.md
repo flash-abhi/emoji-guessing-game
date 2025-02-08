@@ -57,9 +57,6 @@ We welcome contributions to improve the game! To contribute:
    ```
 6. Open a **Pull Request** on the original repository.
 
-## 📜 License
-
-This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it!
 
 ---
 
